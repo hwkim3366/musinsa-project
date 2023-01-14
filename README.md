@@ -24,3 +24,9 @@
 ## 5.실행
 
     - $ java -jar ./build/libs/musinsa-category-0.0.1-SNAPSHOT.jar
+
+
+## 6.기타 
+
+    - 프로그램 전반적으로 상위 카테고리 ID (PARENT_ID) 가 null 이거나 음수이면 최상위 카테고리로 취급하여 처리합니다.
+
